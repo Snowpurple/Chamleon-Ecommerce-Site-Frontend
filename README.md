@@ -23,6 +23,13 @@
 
 ---
 
+## 💡 Description
+This is UI project to apply modern layout techniques using Flexbox and design an art showcase site from scratch — especially without using JavaScript or image-heavy dependencies.It show case the free spirits of colors and their power over perception.
+
+---
+
+##
+
 ## 📸 Screenshot
 ![image](https://github.com/user-attachments/assets/c563e49a-ac79-4071-b1f5-42eeb25f6a59)
 ![Screenshot (46)](https://github.com/user-attachments/assets/773c8982-523c-4353-bdc3-68c3536318ad)
