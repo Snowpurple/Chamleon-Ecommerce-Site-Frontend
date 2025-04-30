@@ -28,7 +28,8 @@ This is UI project to apply modern layout techniques using Flexbox and design an
 
 ---
 
-##
+## 💡Inspiration
+Mother Nature and the perspective of artist's towards the World 
 
 ## 📸 Screenshot
 ![image](https://github.com/user-attachments/assets/c563e49a-ac79-4071-b1f5-42eeb25f6a59)
@@ -36,6 +37,8 @@ This is UI project to apply modern layout techniques using Flexbox and design an
 
 ![image](https://github.com/user-attachments/assets/638d590e-9912-4e25-ada2-093244b799fc)
 
+## 🪼Auther
+Made with ❤️ by Sneha Yadav aka Snowpurple
 
 
 
