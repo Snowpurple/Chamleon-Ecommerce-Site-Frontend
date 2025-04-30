@@ -37,7 +37,7 @@ Mother Nature and the perspective of artist's towards the World
 
 ![image](https://github.com/user-attachments/assets/638d590e-9912-4e25-ada2-093244b799fc)
 
-## 🪼Auther
+## 🪼Author
 Made with ❤️ by Sneha Yadav aka Snowpurple
 
 
