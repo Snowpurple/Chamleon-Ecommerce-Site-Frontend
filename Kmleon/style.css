@@ -272,3 +272,66 @@
    ul i {
        margin-right: 0.8rem;
    }
+/* ========== RESPONSIVE MEDIA QUERIES ========== */
+
+/* For tablets (below 992px) */
+@media (max-width: 992px) {
+    .nav-search {
+        width: 90%;
+    }
+
+    .panel-ops {
+        width: 100%;
+        flex-wrap: wrap;
+    }
+
+    .box {
+        width: 45%;
+    }
+}
+
+/* For mobile devices (below 768px) */
+@media (max-width: 768px) {
+    .navbar,
+    .panel {
+        flex-direction: column;
+        height: auto;
+    }
+
+    .nav-search {
+        flex-direction: column;
+        width: 100%;
+        height: auto;
+    }
+
+    .nav-search input,
+    .nav-search select {
+        width: 100%;
+        margin: 5px 0;
+    }
+
+    .shop-section {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .box {
+        width: 90%;
+    }
+
+    .panel-ops p {
+        display: block;
+        margin: 5px 0;
+    }
+
+    .foot-panel2 {
+        flex-direction: column;
+        align-items: center;
+        height: auto;
+        padding: 20px 0;
+    }
+
+    .foot-panel2 ul {
+        margin: 10px 0;
+    }
+}
